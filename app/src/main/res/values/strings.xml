@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Trabalho_01</string>
+
+    <string-array name="tarefas">
+        <item>Beber Água</item>
+        <item>Comer</item>
+        <item>Lanchar</item>
+        <item>Treino</item>
+        <item>Almoçar</item>
+        <item>Jantar</item>
+        <item>Estudar</item>
+        <item>Dormir</item>
+    </string-array>
+
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_tabbed">Tabbed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
